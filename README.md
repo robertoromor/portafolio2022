@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-portafolio2022
-==============
+~~portafolio2022~~
+==================
 
 <!-- badges: start -->
 <!-- badges: end -->
